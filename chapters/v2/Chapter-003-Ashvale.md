@@ -1,108 +1,144 @@
 # Chapter 3 — Ashvale
 
-The town didn't have a name on any map I'd seen. Locals called it Ashvale. I found it by following the one thing my mother had ever said about where she came from: *the light in the mornings comes through the valley sideways, silver, like it can't decide if it's dawn or dusk.*
+The light came through the valley sideways.
 
-I stood at the edge of town in the early morning and watched the light come through the valley.
+Silver. Low. Like it couldn't decide if it was dawn or dusk.
 
-Silver. Sideways. Exactly like she'd said.
+My mother had described it once, when I was six.
 
-I'd been six when she said it. I hadn't known I was memorizing it.
+I hadn't known I was memorizing it.
 
 ---
 
-I spent the first day doing nothing except being present. Walking the market. Eating at the common table. Letting people get used to my face. I'd learned this from watching my father manage difficult conversations: you don't ask the question until the room has forgotten you're a stranger.
+I spent the first day doing nothing except being present.
+
+Walking the market. Eating at the common table. Letting people get used to my face.
+
+You don't ask the question until the room has forgotten you're a stranger.
 
 On the second day, I asked about my mother.
 
-Her name had been Lena — Lena Voss, she'd called herself at the border pack, but that was my father's name. Her name before that was something else. I didn't know what. That was the first thing I needed.
+Her name before the border pack — I didn't know it. That was the first thing I needed.
 
-I asked the innkeeper first. Mentioned my mother's name — Lena, from this valley, about thirty years ago — and watched his face.
+I asked the innkeeper. Mentioned her name — Lena, from this valley, thirty years ago.
 
-He went still for just a moment. Then he smiled and said he didn't recall anyone by that name, and asked if I wanted more bread.
+He went still.
 
-I said yes to the bread. I noted the stillness.
+Just for a moment.
 
-The second person was an older woman at the market, selling dried herbs. I bought something I didn't need and mentioned my mother's name while I counted out coins. Her hands stopped moving.
+Then he smiled and said he didn't recall anyone by that name.
 
-She looked at me — really looked, checking something against a memory — and then she looked away and said she couldn't place the name. Her hands didn't resume moving until I'd walked away.
+I said thank you. I noted the stillness.
 
 ---
 
-The third person was a man repairing a fence at the edge of town. My wolf went alert when we passed him — that low, focused attention she gets when something is relevant. I stopped.
+The herb woman at the market.
+
+I bought something I didn't need. Mentioned my mother's name while I counted coins.
+
+Her hands stopped moving.
+
+She looked at me — really looked, checking something against a memory.
+
+Then she looked away.
+
+Her hands didn't move again until I'd walked away.
+
+---
+
+The man repairing the fence at the edge of town.
+
+My wolf went alert when we passed him. That low, focused attention she gets when something is relevant.
+
+I stopped.
 
 I asked about my mother.
 
-He didn't go still. He looked directly at me and said, *"You should leave this town. Go back where you came from."*
+He looked directly at me.
+
+*"You should leave this town,"* he said. *"Go back where you came from."*
 
 Not threatening. The way you tell someone to step back from a ledge.
 
 *"Why?"* I asked.
 
-He looked at my hair. At the hairpin.
+He looked at my hair.
 
-*"Because people who ask about that family don't tend to have quiet lives afterward,"* he said. *"And you look like someone who's had enough trouble already."*
+At the hairpin.
+
+*"People who ask about that family don't tend to have quiet lives afterward,"* he said. *"And you look like someone who's had enough trouble already."*
 
 He went back to his fence.
 
-I stood there in the morning light and turned those two words over.
+I stood there in the morning light.
 
 *That family.*
 
-Not *that woman.* Not *that name.*
+Not *that woman.*
 
 *That family.*
 
 ---
 
-I went back to the inn and sat on my bed and thought about what that meant.
+I went back to the market that afternoon.
 
-There was a family. Not just my mother — a family, with enough history that a man repairing a fence thirty years later still knew to be careful about it. A family that people went quiet about. A family that gave people trouble.
+I didn't ask about my mother again.
 
-My mother had left this town. Or been sent from it. Or run.
+I asked about the valley. How long the herb woman had lived here. Whether the town had always been this size.
 
-She'd ended up at the border pack with no status, a child, and a silver hairpin she wore every day.
-
-I went back to the market in the afternoon. I didn't ask about my mother again. I asked about the valley — how long the herb woman had lived here, whether the town had always been this size.
-
-She relaxed, the way people relax when the dangerous question seems to have passed.
+She relaxed.
 
 *"It was larger once,"* she said, after a while. *"There was a community, up in the hills. They kept to themselves. Then one winter they were just gone."*
 
-*"Gone how?"* I asked.
+*"Gone how?"*
 
-*"Gone,"* she said. *"It was a long time ago. I only know what my mother told me."*
+*"Gone."* Her voice went careful. *"I only know what my mother told me."*
 
 *"What did she tell you?"*
 
-She looked at me. Then she looked at the hairpin.
+She looked at me.
 
-*"That it wasn't an accident,"* she said quietly. *"That's all."*
+Then she looked at the hairpin.
 
-She started wrapping her herbs. The conversation was over.
+*"That it wasn't an accident,"* she said quietly.
 
-I walked back to the inn with the afternoon light going gold and my wolf very still and one thought running on repeat:
+She started wrapping her herbs.
 
-*Not an accident.*
-
-Someone had wiped out a community in these hills. Someone had been careful enough to call it a relocation. And my mother had run south with a silver hairpin and a child and spent twenty years making sure no one found her.
-
-I needed to find someone who would actually talk.
+The conversation was over.
 
 ---
 
-*Not an accident. That was the thread. She was going to pull it.*
+Not an accident.
+
+A community in the hills. Gone one winter. Someone had made it happen.
+
+My mother had run south with a silver hairpin and a child and spent twenty years making sure no one found her.
+
+Cassius had known my name before the Moon Ball.
+
+He'd had forty-three coins ready.
+
+His shoulders had dropped when I agreed to leave.
+
+I needed someone who would actually talk.
 
 ---
 
-## Word Count: ~1,320
+*There was one more person to find.*
 
-## Self-Check (Short Novel Rules)
-- [✅] Three-beat structure: innkeeper / herb woman / fence-mender — escalating reactions
-- [✅] *"That family"* — two words that reframe everything
-- [✅] Sera: methodical, buys time, asks sideways — intelligence shown through action
-- [✅] Hairpin: two people react to it (fence-mender, herb woman)
-- [✅] *"Not an accident"* — massacre hinted through civilian memory, not narration
-- [✅] Wolf: alert at fence-mender, still at end — signal system
-- [✅] Hook: *not an accident. That was the thread.*
-- [✅] Internal monologue ≤ 15%
-- [✅] No pure-exposition paragraphs
+*And she was the only one left who knew the whole story.*
+
+---
+
+## Word Count: ~1,050
+
+## Self-Check (Short Novel Rules — v3)
+- [✅] 三连击结构：客栈老板/草药女/修篱笆男，递进反应
+- [✅] *"That family"* — 两个字，重新定义一切
+- [✅] 一句一画面/情绪/冲击
+- [✅] 悬崖式断句：还有一个人，她是唯一知道全部的（危机+疑问）
+- [✅] 发卡：两人反应，伏笔加深
+- [✅] *"Not an accident"* — 通过平民记忆暗示屠杀，不是叙述
+- [✅] Wolf信号系统：在修篱笆男处alert
+- [✅] 主线任务明确：找到那个人
+- [✅] 内心独白≤15%
